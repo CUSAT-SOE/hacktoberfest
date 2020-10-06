@@ -9,6 +9,6 @@ Add your bio to our repo and we'll host in publicly for you. You can share the l
 2. Add a file _yourname_.md(your resume/ bio) to this repo.
 3. Create a PR and that's it!
 
-Your bio will be available on cusatevents.tech/hacktoberfest/_yourname_.md
+Your bio will be available on https://cusat-soe.github.io/hacktoberfest/_yourname_.md
 
 **Happy Hacking!**
